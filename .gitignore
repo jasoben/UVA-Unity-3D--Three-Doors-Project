@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+/UVAUnity3D Three Doors Project/[Ll]ibrary/
+UVAUnity3D Three Doors Project/[Tt]emp/
+UVAUnity3D Three Doors Project/[Oo]bj/
+UVAUnity3D Three Doors Project/[Bb]uild/
+UVAUnity3D Three Doors Project/[Bb]uilds/
+UVAUnity3D Three Doors Project/[Ll]ogs/
+UVAUnity3D Three Doors Project/[Mm]emoryCaptures/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
